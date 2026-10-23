@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ROS 2
+build/
+install/
+log/
+
+# Editores
+.vscode/
+.idea/
+
+# Archivos temporales
+*.swp
+*~
+.DS_Store
+
+# Simulaciones grabadas
+*.db3
+*.mcap
