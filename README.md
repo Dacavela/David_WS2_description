@@ -102,7 +102,7 @@ python3 ~/ros2_ws/src/David_WS2_description/scripts/trayectoria_7.py
 
 La ejecución del robot en Gazebo Sim puede observarse en el siguiente video:
 
-**[Ver simulación en YouTube](PEGAR_AQUI_ENLACE_DE_YOUTUBE)**
+**[Ver simulación en YouTube]((https://youtu.be/W5mII4zopic))**
 
 ## Tecnologías utilizadas
 
